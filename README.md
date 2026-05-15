@@ -1,9 +1,7 @@
 # Comedero inteligente para gatos — PCB custom ESP32
 
-![PCB soldada del prototipo](sc.png)
 
-> **Nota:** sube la imagen del PCB soldado en la ruta `docs/img/pcb-soldada.jpg`. Si usas otra carpeta o nombre de archivo, cambia la ruta de la imagen en esta línea.
-
+![PCB soldada del prototipo](mon.jpeg)
 ## Descripción general
 
 Este repositorio contiene el diseño de una **PCB custom basada en ESP32-S3** para un prototipo de comedero inteligente para gatos. El objetivo del proyecto no es construir una tarjeta de desarrollo genérica, sino una placa funcional orientada a controlar actuadores, leer sensores y permitir el monitoreo del comportamiento de alimentación de una mascota.
@@ -24,10 +22,10 @@ Diseñar y fabricar una PCB compacta, funcional y soldable que sirva como núcle
 - Posibilidad de integrar lógica de alertas e IA embebida en el firmware.
 
 
-## Objetivo del proyecto
+## Esquematico
 
+![PCB soldada del prototipo](sc.png)
 
-![PCB soldada del prototipo](mon.jpeg)
 
 ## Estado actual
 
