@@ -1,0 +1,41 @@
+PCB statistics report
+=====================
+- Date: 6/05/2026 9:40:05 a. m.
+- Project: Stencil
+- Board name: Stencil
+
+Board
+-----
+- Width: 60,0100 mm
+- Height: 50,2500 mm
+- Area: 2805,2250 mm²
+
+Pads
+----
+- Through hole: 12
+- SMD: 157
+- Connector: 0
+- NPTH: 0
+
+Vias
+----
+- Through vias: 0
+- Blind/buried: 0
+- Micro vias: 0
+
+Components
+----------
+
+|              | Front Side | Back Side | Total |
+|--------------|------------|-----------|-------|
+|THT:          |          0 |         0 |     0 |
+|SMD:          |         45 |         0 |    45 |
+|Unspecified:  |          0 |         0 |     0 |
+|Total:        |         45 |         0 |    45 |
+
+Drill holes
+-----------
+
+| Count | Shape |    X Size |    Y Size | Plated | Via/Pad | Start Layer | Stop Layer |
+|-------|-------|-----------|-----------|--------|---------|-------------|------------|
+|    12 | Round | 0,2000 mm | 0,2000 mm |    PTH |     Pad |        F.Cu |       B.Cu |

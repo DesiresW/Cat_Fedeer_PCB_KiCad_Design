@@ -1,0 +1,44 @@
+Pin	Etiqueta	Función S3	Grupo / Justificación
+1	GND	GND	Energía Arriba
+2	5V	VBUS / VIN	Energía Arriba
+3	3V3	VOUT (Reg)	Energía Arriba
+4	EN	CHIP_PU	Reset
+5	IO0	GPIO 0	Boot (Junto a EN)
+6	IO38	IO38	libre
+8	TX0	IO43	UART Debug
+9	RX0	IO44	UART Debug
+10	SDA	IO8	I2C (Default S3)
+11	SCL	IO9	I2C (Default S3)
+12	IO21	GPIO 21	Libre
+13	IO47	GPIO 47	Libre
+14	IO48	GPIO 48	Libre (Típico LED RGB)
+15	IO45	GPIO 45	Strapping / Libre
+16	IO46	GPIO 46	Strapping / Libre
+17	IO35	GPIO 35	Octal SPI / Libre
+18	IO36	GPIO 36	Octal SPI / Libre
+19	IO37	GPIO 37	Octal SPI / Libre
+20	IO42	GPIO 42	Rescatado (Ocupa el lugar de un NC)
+	GND
+🟦 Header Derecho (J2) - Acción y Periféricos
+SPI, Analógicos y PWM agrupados.
+Pin	Etiqueta	Función S3	Grupo / Justificación
+1	MOSI	IO12	SPI
+2	MISO	IO13	SPI
+3	SCK	IO11	SPI
+4	CS	IO10	SPI
+5	ADC1	IO1	ADC1_CH0
+6	ADC2	IO2	ADC1_CH1
+7	ADC3	IO3	ADC1_CH2
+8	ADC4	IO4	ADC1_CH3
+9	PWM1	IO5	Motor/LED
+10	PWM2	IO6	Motor/LED
+11	PWM3	IO7	Motor/LED
+12	PWM4	IO14	Motor/LED
+13	IO15	GPIO 15	ADC2 / Libre
+14	IO16	GPIO 16	ADC2 / Libre
+15	IO17	GPIO 17	ADC2 / Libre
+16	IO18	GPIO 18	ADC2 / Libre
+18	IO39	GPIO 39	JTAG / Libre
+19	IO40	GPIO 40	JTAG / Libre
+20	IO41	GPIO 41	Rescatado (Ocupa el lugar de un GND)
+17	3V3
