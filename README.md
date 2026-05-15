@@ -1,6 +1,6 @@
 # Comedero inteligente para gatos — PCB custom ESP32
 
-![PCB soldada del prototipo](docs/img/sc.png)
+![PCB soldada del prototipo](sc.png)
 
 > **Nota:** sube la imagen del PCB soldado en la ruta `docs/img/pcb-soldada.jpg`. Si usas otra carpeta o nombre de archivo, cambia la ruta de la imagen en esta línea.
 
